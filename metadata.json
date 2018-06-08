@@ -1,0 +1,48 @@
+{
+    "description": "Replication of Bottenhorn et al. (2018) meta-analysis of naturalistic fMRI paradigms",
+    "exclusion_criteria": [
+        "task based on static, timed blocks of stimuli were presented with a well-defined window for participant response",
+        "study assessed training or learning across multiple trials or across some period of practice (e.g., pre vs. post contrasts)",
+        "ROI analysis (not whole-brain)",
+        "ANOVA interaction analysis",
+        "study does not report brain activation locations in a three-dimensional, standardized coordinate space",
+        "participants under the age of 18 ",
+        "participants with any history of neurological or psychiatric diagnosis"
+    ],
+    "inclusion_criteria": [
+        "healthy adult subjects",
+        "subjects perform naturalistic fMRI tasks in the scanner"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "video games",
+        "Film viewing",
+        "Music",
+        "Music comprehension/production",
+        "Language Processing",
+        "Speech Perception",
+        "Speech Processing",
+        "Social Cognition",
+        "Object Manipulation",
+        "Affect Recognition",
+        "Emotion Perception",
+        "Spatial Memory",
+        "Encoding",
+        "Episodic Memory",
+        "Acoustic Processing",
+        "Audiovisual Perception",
+        "Auditory Perception",
+        "Auditory Scene",
+        "Face Perception",
+        "Nociception",
+        "Visual Perception",
+        "Synchrony Perception",
+        "Vision",
+        "Motion",
+        "Audition",
+        "Navigation",
+        "Navigation task",
+        "Balloon Analogue Risk Task (BART)"
+    ],
+    "unmapped_pmids": []
+}
